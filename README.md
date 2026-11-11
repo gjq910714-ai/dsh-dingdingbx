@@ -26,7 +26,7 @@
 
 ```powershell
 # 1. 放进 DSH 用户级 skill 目录
-git clone https://github.com/<you>/dsh-dingdingbx.git
+git clone https://github.com/gjq910714-ai/dsh-dingdingbx.git
 Copy-Item -Recurse .\dsh-dingdingbx "$env:USERPROFILE\.dsh\skills\dsh-dingdingbx"
 
 # 2. 依赖
